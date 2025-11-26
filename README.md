@@ -9,6 +9,7 @@ Este es un proyecto de práctica para aprender a utilizar comandos de [Git Docum
 
 ## Introduction
 Aquí va la introducción del proyecto.
+![Project Logo](images/logo.png)
 
 ## Features
 Características principales.
