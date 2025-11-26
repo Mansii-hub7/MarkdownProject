@@ -1,0 +1,1 @@
+Este es un proyecto de práctica para aprender a utilizar comandos de Git y la sintaxis de Markdown en Linux.
