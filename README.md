@@ -14,6 +14,12 @@ Aquí va la introducción del proyecto.
 ## Features
 Características principales.
 
+| Feature           | Description                            | Status      |
+|-------------------|----------------------------------------|-------------|
+| User Authentication | Allows users to log in and sign up   | Completed   |
+| Dark Mode         | Enables night theme for better viewing | In Progress |
+| Search Bar        | Allows searching through notes         | Planned     |
+
 ## Installation
 Pasos para instalar.
 
