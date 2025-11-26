@@ -1,0 +1,73 @@
+commit 6d35a370ba958e59b846814269782112bf5eccab
+Author: Alexander <47984783k@iespoblenou.org>
+Date:   Wed Nov 26 21:34:45 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 56f9e89de50609a4815eb57e223a86048014d860
+Author: Alexander <47984783k@iespoblenou.org>
+Date:   Wed Nov 26 20:23:56 2025 +0100
+
+    Add feature list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit d932df72f4f827880394481f1321abddd6d100ab
+Author: Alexander <47984783k@iespoblenou.org>
+Date:   Wed Nov 26 19:50:17 2025 +0100
+
+    Add project logo to README
+
+ README.md       |   1 +
+ images/logo.png | Bin 0 -> 28074 bytes
+ notes/notes.txt |   0
+ 3 files changed, 1 insertion(+)
+
+commit 532e8b0559aba6216ccca844510166929721ddf3
+Author: Alexander <47984783k@iespoblenou.org>
+Date:   Wed Nov 26 19:16:02 2025 +0100
+
+    Add sections to README
+
+ README.md | 17 ++++++++++++++++-
+ 1 file changed, 16 insertions(+), 1 deletion(-)
+
+commit 1232817be7a1c419bfc07b665ba273007f3e3e61
+Author: Alexander <47984783k@iespoblenou.org>
+Date:   Wed Nov 26 19:14:27 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 983782f8d8b65a91ce1b7a3a8b48d26af88730d5
+Author: Alexander <47984783k@iespoblenou.org>
+Date:   Wed Nov 26 19:09:10 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+
+commit 91912b8ca7a26b609571f2d626675d66e82f332e
+Author: Alexander <47984783k@iespoblenou.org>
+Date:   Wed Nov 26 18:55:42 2025 +0100
+
+    Add README with project introduccion
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 5faa2f97bc4c2f3bde831461cadca7bffd7c37c3
+Author: Alexander <47984783k@iespoblenou.org>
+Date:   Wed Nov 26 18:38:58 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
