@@ -6,3 +6,18 @@ Este es un proyecto de práctica para aprender a utilizar comandos de [Git Docum
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
+
+## Introduction
+Aquí va la introducción del proyecto.
+
+## Features
+Características principales.
+
+## Installation
+Pasos para instalar.
+
+## Usage
+Cómo usar el proyecto.
+
+## License
+Información de la licencia.
